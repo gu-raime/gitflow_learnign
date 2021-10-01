@@ -1,5 +1,5 @@
 # gitflow_learnign
-Git flow learning on gitkraken
+Git flow learning on gitkraken. Still free to create archives!
 
 ## First attempts: 
 
