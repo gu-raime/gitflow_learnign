@@ -3,21 +3,25 @@ Git flow learning on gitkraken. Still free to create archives!
 
 ## First attempts: 
 
-Know what's a markdown archive: https://en.wikipedia.org/wiki/Markdown
+1 - Know what's a markdown archive: https://en.wikipedia.org/wiki/Markdown
 
-Markdown examples: https://www.makeareadme.com/
+2- Markdown examples: https://www.makeareadme.com/
 
-1- Build a markdown Title 
+3 - Open /markdown_practice.md
 
-2- Build a markdown subtitle 
+4- Build a markdown Title 
 
-3- Put images and hiperlinks on markdown text
+5- Build a markdown subtitle 
 
-3- Build a code box in markdown
+6- Put images and hiperlinks on markdown text
 
-4- Create personalized badges: https://github.com/alexandresanlim/Badges4-README.md-Profile and https://shields.io/
+7- Build a code box in markdown
 
-5 - Build a profile Markdown: https://www.youtube.com/watch?v=ECuqb5Tv9qI  
+8- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+9- Build personalized badges: https://shields.io/
+
+9 - Build a profile Markdown: https://www.youtube.com/watch?v=ECuqb5Tv9qI  
 
 ## Objective: 
 
